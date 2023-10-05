@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyLocationTest</string>
+    <string name="permission_alarm">Необходимы разрешения</string>
+</resources>
